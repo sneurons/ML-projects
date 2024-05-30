@@ -19,12 +19,7 @@ class customException(Exception):
         return self.error_message
         
 
-if __name__== "_main_":
-    try:
-        a= 1/0
-    except:
-        logging.info("Logging has started")
-        raise customException
+
         
         
 

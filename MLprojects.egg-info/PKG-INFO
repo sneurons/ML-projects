@@ -3,3 +3,6 @@ Name: MLprojects
 Version: 0.0.1
 Author: Sylvan
 Author-email: sylvaneurons@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn

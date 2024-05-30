@@ -3,4 +3,8 @@ setup.py
 MLprojects.egg-info/PKG-INFO
 MLprojects.egg-info/SOURCES.txt
 MLprojects.egg-info/dependency_links.txt
+MLprojects.egg-info/requires.txt
 MLprojects.egg-info/top_level.txt
+MLprojects.egg-info/notebook/1 . EDA STUDENT PERFORMANCE .ipynb
+MLprojects.egg-info/notebook/2. MODEL TRAINING.ipynb
+MLprojects.egg-info/notebook/data/stud.csv
